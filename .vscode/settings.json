@@ -1,0 +1,7 @@
+{
+    "beautify.onSave": true,
+    
+    "editor.codeActionsOnSave": {
+
+    }
+}
